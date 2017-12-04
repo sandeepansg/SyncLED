@@ -1,0 +1,9 @@
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\bin\Debug\SyncLED™.exe.config
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\bin\Debug\SyncLED™.exe
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\bin\Debug\SyncLED™.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\bin\Debug\OpenHardwareMonitorLib.dll
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\obj\Debug\Test_1.Form1.resources
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\obj\Debug\SyncLED.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\obj\Debug\Test_1.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\obj\Debug\SyncLED™.exe
+C:\Users\User\documents\visual studio 2012\Projects\Test_1\Test_1\obj\Debug\SyncLED™.pdb
