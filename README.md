@@ -9,20 +9,15 @@
 - [Features](#features)
 - [Feedback](#feedback)
 - [Contributors](#contributors)
+- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
-
-## Features
-- Real-time temperature monitoring of CPU and GPU
-- Temperature dependent LED control
-- Independent Host software
-- Open Source hardware and Software - Make your own!
 
 ## Introduction
 [![Build Platforms](https://img.shields.io/badge/build_platform-visual_studio-865FC5.svg)](https://www.visualstudio.com/vs/)
 [![Build Platforms](https://img.shields.io/badge/build_platform-arduino-10A2AE.svg)](https://www.arduino.cc)
 [![Dependency](https://img.shields.io/badge/dependency-open_hardware_monitor-4EC820.svg)](https://github.com/openhardwaremonitor/openhardwaremonitor)
-[![Contributors](https://img.shields.io/badge/all_contributors-2-yellow.svg)](#contributors)
+[![Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
 [![PCB](https://img.shields.io/badge/PCB_design-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
 
 SyncLED is a implementation of a basic secure communiaction framework to bridge communication between a host software(running in a PC) and a slave LED controller. The host software grabs the bus reported temperature data using [Open Hardware Monitor Library](https://github.com/SandeepanSengupta/SyncLED/blob/master/Sources/Application/Bridge/New/OpenHardwareMonitorLib.dll) and sends it over the usb to the salve embedded led controller using the self-tailored secure communication format.
@@ -36,6 +31,13 @@ SyncLED is a implementation of a basic secure communiaction framework to bridge 
   Screenshot of host software.
 </p>
 
+
+## Features
+- Real-time temperature monitoring of CPU and GPU
+- Temperature dependent LED control
+- Independent Host software
+
+
 ## Feedback
 Feel free to send us feedback on facebook:
  - [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)
@@ -43,6 +45,12 @@ Feel free to send us feedback on facebook:
 <p> 
 or <a href ="https://github.com/SandeepanSengupta/SyncLED/issues/new">file an issue</a>. Feature requests are always welcome.</p>
 
+## Contributors
+<p><img src="https://goo.gl/nLUjoX" alt="Sandeepan" width="80px"> <img src="https://goo.gl/2Z1grd" alt="Tamojit" width="80px"></p>
+
+## License
+All the contents of this repository have been realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Acknowledgments
 
