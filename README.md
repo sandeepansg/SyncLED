@@ -46,6 +46,6 @@ or [file an issue](https://github.com/SandeepanSengupta/SyncLED/issues/new). Fea
 
 ## Acknowledgments
 
-Thanks to [Google](https://www.google.com) and various developers for supporting us with a tons of developments... 
+Thanks to [Google](https://www.google.com) and various developers for supporting us with a tons of developments... :wink:
 
 
