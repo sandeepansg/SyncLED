@@ -49,7 +49,7 @@ or <a href ="https://github.com/SandeepanSengupta/SyncLED/issues/new">file an is
 <p><img src="https://goo.gl/nLUjoX" alt="Sandeepan" width="80px"> <img src="https://goo.gl/2Z1grd" alt="Tamojit" width="80px"></p>
 
 ## License
-All the contents of this repository have been realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
+Contents of this repository are realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Acknowledgments
