@@ -40,8 +40,9 @@ SyncLED is a implementation of a basic secure communication framework to bridge 
 
 ## Feedback
 Feel free to send us feedback on facebook:
- - [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)
- - [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/sengupta.sandeepan/)
+<br>
+ [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)<br>
+ [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/sengupta.sandeepan/)
 <p> 
 or <a href ="https://github.com/SandeepanSengupta/SyncLED/issues/new">file an issue</a>. Feature requests are always welcome.</p>
 
