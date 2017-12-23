@@ -40,7 +40,7 @@ SyncLED is a implementation of a basic secure communication framework to bridge 
 
 ## Feedback
 Feel free to send us feedback on facebook:
-<br>
+<br><br>
  [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)<br>
  [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/sengupta.sandeepan/)
 <p> 
