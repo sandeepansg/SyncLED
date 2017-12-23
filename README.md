@@ -14,7 +14,7 @@
 
 
 ## Introduction
-[![Build Platforms](https://img.shields.io/badge/build-visual_studio-blue.svg)](https://www.visualstudio.com/vs/)
-[![Build Platforms](https://img.shields.io/badge/build-arduino-brightgreen.svg)](https://www.arduino.cc)
+[![Build Platforms](https://img.shields.io/badge/build-visual_studio-865FC5.svg)](https://www.visualstudio.com/vs/)
+[![Build Platforms](https://img.shields.io/badge/build-arduino-10A2AE.svg)](https://www.arduino.cc)
 [![Contributor](https://img.shields.io/badge/contributors-2-yellow.svg)](#contributors)
-[![PCB](https://img.shields.io/badge/PCB-EagleCAD-red.svg)](https://www.autodesk.com/products/eagle/overview)
+[![PCB](https://img.shields.io/badge/PCB-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
