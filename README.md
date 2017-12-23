@@ -21,3 +21,15 @@
 [![PCB](https://img.shields.io/badge/PCB_design-EagleCAD-EE8822.svg)](https://www.autodesk.com/products/eagle/overview)
 
 SyncLED is a implementation of a basic secure communiaction framework to bridge communication between a host software(running in a PC) and a slave LED controller. The host software grabs the bus reported temperature data using [Open Hardware Monitor Library](https://github.com/SandeepanSengupta/SyncLED/blob/master/Sources/Application/Bridge/New/OpenHardwareMonitorLib.dll) and sends it over the usb to the salve embedded led controller using the self-tailored secure communication format.
+
+
+## Feedback
+Feel free to send us feedback on facebook:
+ - [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)
+ - [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/sengupta.sandeepan/)
+<p> 
+or [file an issue](https://github.com/SandeepanSengupta/SyncLED/issues/new). Feature requests are always welcome.</p>
+
+
+
+
