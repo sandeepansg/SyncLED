@@ -38,16 +38,13 @@ SyncLED is a implementation of a basic secure communication framework to bridge 
 - Independent Host software
 
 
-## Feedback
-Feel free to send us feedback on facebook:
+## Social
+Connect us here:
 <br><br>
- [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/saha.tamojit/)<br>
- [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.facebook.com/sengupta.sandeepan/)
+ [![Build Platforms](https://img.shields.io/badge/id-Tamojit-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/tamojit-saha/)<br>
+ [![Build Platforms](https://img.shields.io/badge/id-Sandeepan-54C7EC.svg?style=for-the-badge)](https://www.linkedin.com/in/sandeepan-sengupta/)
 <p> 
-or <a href ="https://github.com/SandeepanSengupta/SyncLED/issues/new">file an issue</a>. Feature requests are always welcome.</p>
-
-## Contributors
-<p><img src="https://goo.gl/nLUjoX" alt="Sandeepan" width="80px"> <img src="https://goo.gl/2Z1grd" alt="Tamojit" width="80px"></p>
+or <a href ="https://github.com/TamojitSaha/LTC2633/issues/new/">file an issue</a>. Feature requests are always welcome.</p>
 
 ## License
 Contents of this repository are realeased under [CC-BY-NC-SA 4.0](./LICENSE.md) <br>
