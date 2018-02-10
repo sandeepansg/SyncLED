@@ -23,7 +23,7 @@
 SyncLED is a implementation of a basic secure communication framework to bridge between a host software and a slave LED controller. The host software grabs the bus reported temperature data using [Open Hardware Monitor Library](https://github.com/SandeepanSengupta/SyncLED/blob/master/Sources/Application/Bridge/New/OpenHardwareMonitorLib.dll) and sends it over the usb to the salve embedded led controller using the self-tailored secure communication format.
 <p align="center">
   <a href="https://gitpoint.co/">
-    <img alt="Windows_App" title="Host Software" src="https://raw.githubusercontent.com/SandeepanSengupta/SyncLED/master/Demos/Application.JPG" width="350">
+    <img alt="Windows_App" title="Host Software" src="https://raw.githubusercontent.com/SandeepanSengupta/SyncLED/master/Demos/Application.png" width="320">
   </a>
 </p>
 
